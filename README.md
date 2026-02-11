@@ -1,1 +1,1 @@
-# sample
+# sample - birkaç değişiklik yaptım deneme 1-2
